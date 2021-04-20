@@ -1,0 +1,2 @@
+The regex [^a]*ce can match the string(s):
+piece
